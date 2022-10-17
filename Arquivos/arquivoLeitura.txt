@@ -1,0 +1,5 @@
+O que são tuplas? 
+As tuplas no C# são uma estrutura de dados do tipo de 
+referência que podem armazenar valores de diferentes tipos. 
+A principal vantagem de uma tupla é permitir o armazenamento de múltiplos tipos, 
+como por exemplo uma string e um int ao mesmo tempo.
